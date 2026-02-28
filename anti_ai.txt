@@ -1,0 +1,7 @@
+! Title: Marcs Anti AI Liste
+! Description: Blockiert die Domains der AI-Anbieter
+! Version: 2026.2.28
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/adamek-it/blocklists
+
+||chatgpt.com^
