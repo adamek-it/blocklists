@@ -5,3 +5,4 @@
 ! Homepage: https://github.com/adamek-it/blocklists
 
 ||chatgpt.com^
+||gemini.google.com^
